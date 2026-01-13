@@ -155,7 +155,6 @@ The results provide reliable forecasts that support
 
 <hr>
 
-<h2>👤 Author</h2>
 <p>
 <b>Dhayananth J</b><br>
 Data Science & AI
